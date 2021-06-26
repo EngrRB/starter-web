@@ -8,6 +8,7 @@
 # THANKS
 
     To my teacher, Jayson Taylor
+	I learned a lot about git and github.
 
 # TECHNOLOGY COLOPHON
 
