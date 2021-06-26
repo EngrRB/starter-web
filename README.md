@@ -2,6 +2,7 @@
 
 This is a simple website project for showing how to use Git ang Github Together.
 Adding a line for rebasing example, then more changes from myfeature branch too.
+Update for an emergency fix for stash example.
 
 ## Introduction
 
